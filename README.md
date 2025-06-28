@@ -72,6 +72,16 @@ fake_news_detector/
 
 ## 🚀 Quick Start
 
+## 📥 Download Dataset
+
+The datasets (`news.csv`, `Fake.csv`, and `True.csv`) are hosted on Google Drive.
+
+To download them:
+
+```bash
+pip install gdown
+python download_data.py
+
 ### Prerequisites
 
 - Python 3.8 or higher
